@@ -1,7 +1,7 @@
 # The Land of Mythical War
 The Land of Mythical war is a Python text-based Role Playing Game
 # How to Run the Program
-Step 1-Download Thonny to Play the Game.[Thonny](https://thonny.org/)
+Step 1-Download [Thonny](https://thonny.org/) to Play the Game.
 
 Step 2- Open the File "The Land of Mythical War"
 # About the Game
